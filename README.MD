@@ -1,2 +1,2 @@
 # Hi 👋, I'm Santiago Barreto
-## A passionate Developer Trainee from Argentina
+## A passionate Trainee Developer  from Argentina
