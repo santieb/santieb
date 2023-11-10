@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Santiago Barreto</h1>
-<h3 align="left">A passionate web developer from Argentina</h3>
+<h3 align="left">A passionate developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
