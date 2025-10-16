@@ -9,7 +9,11 @@
 ###
 
 <p align="left">
-I design and operate modern <b>data platforms</b> that transform raw data into reliable, analytics-ready assets.<br>
+I build and maintain scalable <b>data platforms</b> that turn raw, fragmented information into trusted, analytics-ready assets.<br>
+My work combines <b>data engineering</b> and <b>data architecture</b> — designing pipelines, optimizing storage layers, and defining standards for efficient, reliable data delivery.<br>
+Strongly focused on <b>dimensional modeling</b> and <b>ELT design</b>, ensuring data consistency, performance, and clear alignment between technical structures and business logic.
+</p>
+
 
 ###
 
