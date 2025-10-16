@@ -46,5 +46,4 @@ I design and operate modern <b>data platforms</b> that transform raw data into r
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santieb&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=santieb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /></div>
